@@ -38,3 +38,12 @@ Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 
 Largest County Turnout: Denver
+
+Lessons Learn in building this project, challenges you face and how did you overcome them
+You really need to put time and energy in this project in order to understand and execute correct command to run the program successfully.
+Utilize the AskBCS and other resources available in the program
+Do Not be afraid to reach out for assistance
+
+Give at least two examples of how this script can be modified to be used for other elections.
+1. If the dataset is similar to this structure then we might be able to run the program with minimum modifications
+2. The script can easily print the analysis and export the text file results
